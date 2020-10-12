@@ -1,0 +1,1 @@
+/home/onki/Downloads/Fraunhofer_work/ruct_from_c/c_from_rust/target/debug/c_from_rust: /home/onki/Downloads/Fraunhofer_work/ruct_from_c/c_from_rust/build.rs /home/onki/Downloads/Fraunhofer_work/ruct_from_c/c_from_rust/src/main.rs
